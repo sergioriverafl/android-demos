@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sergio Rivera</string>
+    <string name="label">Sergio Rivera</string>
+    <string name="title_activity_splas_screen">SplasScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

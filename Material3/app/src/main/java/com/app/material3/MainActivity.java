@@ -68,7 +68,6 @@ public class MainActivity extends AppCompatActivity {
 
         sendButton = (Button)findViewById(R.id.send);
 
-
         Info = (TextView)findViewById(R.id.info);
         Info2 = (TextView)findViewById(R.id.info2);
         Info3 = (TextView)findViewById(R.id.info3);
